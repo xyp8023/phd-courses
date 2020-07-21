@@ -1,0 +1,21 @@
+# PhD Courses
+
+- name: Fundamentals of Machine Learning Over Networks
+  code: FEP3260
+  credits: 9
+  status: passed
+
+- name: WASP Autonomous Systems 1
+  code: 
+  credicts: 6
+  status: passed
+
+- name: Visual SLAM
+  code: DD3353
+  credits: 3
+  status: being graded
+
+- name: Basic Communication and Treaching
+  code: FLH3000
+  credicts: 3
+  status: next semester
