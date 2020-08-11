@@ -2,7 +2,7 @@
 
 - name: Fundamentals of Machine Learning Over Networks
   code: FEP3260
-  credits: 9
+  credits: 10
   status: passed
 
 - name: WASP Autonomous Systems 1
@@ -18,4 +18,14 @@
 - name: Basic Communication and Treaching
   code: FLH3000
   credicts: 3
-  status: next semester
+  status: 2020 Fall
+
+ - name: Deep Learning, Advanced Course
+   code: FDD3412
+   credits: 6
+   status: 2020 Fall P1
+
+ - name: WASP-AS2
+   code:
+   credits: 6
+   status: 2020 Fall or 2021 Spring
