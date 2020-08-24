@@ -11,9 +11,9 @@
   status: passed
 
 - name: Visual SLAM
-  code: DD3353
-  credits: 3
-  status: being graded
+  code: DD3354
+  credits: 6
+  status: 3hp for course (done), 3hp for project (ddl Oct. 31)
 
 - name: Basic Communication and Treaching
   code: FLH3000
