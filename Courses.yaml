@@ -18,14 +18,14 @@
 - name: Basic Communication and Treaching
   code: FLH3000
   credicts: 3
-  status: 2020 Fall
+  status: passed
 
  - name: Deep Learning, Advanced Course
    code: FDD3412
    credits: 6
-   status: 2020 Fall P1
+   status: passed
 
  - name: WASP-AS2
    code:
    credits: 6
-   status: 2020 Fall, starts Sep. 24, 2020
+   status: passed
