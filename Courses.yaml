@@ -15,7 +15,7 @@
   credits: 6
   status: 3hp for course (done), 3hp for project (ddl Oct. 31)
 
-- name: Basic Communication and Treaching
+- name: Basic Communication and Teaching
   code: FLH3000
   credicts: 3
   status: passed
@@ -29,3 +29,8 @@
    code:
    credits: 6
    status: passed
+   
+ - name: Writing Scientific Articles
+   code: FDS3102
+   credits: 5
+   status: 2021 Spring
